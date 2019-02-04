@@ -1,0 +1,4 @@
+/* Main Panel */
+#rootPane {
+    -fx-background-image: url("main-bg.jpg");
+}
